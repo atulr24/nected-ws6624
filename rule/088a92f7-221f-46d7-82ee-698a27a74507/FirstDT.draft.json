@@ -3,9 +3,9 @@
  "category": "decisionTable",
  "data": {
   "createdAt": "2025-11-11T10:11:35.279Z",
-  "updatedAt": "2025-11-11T10:14:47.075729Z",
-  "isDeleted": false,
-  "testedAt": "2025-11-11T10:14:47.075Z",
+  "updatedAt": "2025-11-11T11:26:33.802Z",
+  "isDeleted": true,
+  "testedAt": "2025-11-11T11:26:12.032Z",
   "publishedAt": "0001-01-01T00:00:00Z",
   "entityId": "088a92f7-221f-46d7-82ee-698a27a74507",
   "name": "FirstDT",
